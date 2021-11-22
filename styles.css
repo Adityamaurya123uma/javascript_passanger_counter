@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: aqua;
+}
+
+.container{
+    text-align: center;
+    margin-top: 250px;
+    margin-left: 650px;
+    padding: 50px;
+    display: inline-block;
+    border: 2px black solid;
+    border-radius: 10px;
+}
+
+.btn{
+    text-align: center;
+    background-color: antiquewhite;
+    display: contents;
+}
+
+#increment-btn{
+    margin: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 20px;
+    background-color: #00ff00;
+}
+
+#save-btn{
+    margin: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 20px;
+    background-color: #ff4252;
+}
